@@ -1,5 +1,5 @@
 /**
-   Serial snippet - Read from and write to serial.
+   Serial snippet - read from and write to serial.
    It prints lines with mcu state (uptime, counter and values) every second
    in continuous mode.
    Each data line started with RS control character.
